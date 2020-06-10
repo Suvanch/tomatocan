@@ -1,5 +1,9 @@
 source 'http://rubygems.org'
+<<<<<<< HEAD
 ruby "2.7.1"
+=======
+ruby "2.7.0"
+>>>>>>> 2161750ffe085bc6b5c4c5547f8bf3bf039e5326
 
 gem 'listen'
 gem 'pg'
